@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donigorek
 - 👀 I’m interested in  programist
-- 🌱 I’m currently learning high school in 1 klass
+- 🌱 I’m currently learning high school in 3 klass
 
 
 <!---
